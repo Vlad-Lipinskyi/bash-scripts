@@ -1,1 +1,1 @@
-# bash-scripts
+# інструкція в chatgpt
